@@ -1,6 +1,6 @@
 ﻿# Finding-Odd-Radio-Circle
 
-This project aims to explore object detection method to find Odd Radio Circule using radio astromony images.
+This project aims to explore object detection methods to find Odd Radio Circule from radio astromony images.
 
 The following method was used:
 
